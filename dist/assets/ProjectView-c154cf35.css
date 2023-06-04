@@ -1,0 +1,1 @@
+.grid-container{display:grid;grid-template-columns:repeat(3,.5fr);gap:1rem}.img-container{object-fit:cover;height:300px}.grid-item{width:100%;overflow:hidden;border:1px solid grey;border-radius:.5rem}.grid-container :hover{border:3px solid #312e2e}.grid-img{width:100%}figcaption{text-align:center;color:#fff;font-weight:700;font-size:large}
